@@ -1,0 +1,1 @@
+import{B as o,D as r}from"./vendor-utils-CllKMHcZ.js";import{E as s}from"./vendor-utils-CllKMHcZ.js";import"./vendor-react-D5MZ_wIn.js";const t=function(s,t={}){"string"==typeof s&&(s=o.from(s));const n=t&&t.objname?{}:[],i=r(t),e=i.parse(s,!0,o=>{void 0===i.options.objname?n.push(o):n[o[0]]=o[1]},()=>{});if(void 0!==e)throw e;return n};export{s as CsvError,t as parse};
